@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+
+<html lang="EN">
+<head>
+<title>Dustin Oaks Resume</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<body>
+
+<h1>Dustin Oaks Resume</h1>
+<img src="headshot.jpg" alt="Dustin Oaks" style="width:200px;height:200px;">
+<hr>
+
+<h3>Education</h3>
+<h4>American Military University</h4>
+<p>M.B.A. Candidate: I.T. Project Management anticipate December 2022</p>
+<p>B.A. Intelligence Studies</p>
+<hr>
+
+<h3>Experience</h3>
+
+<h4>Program Analyst Mid</h4>
+<h4>Flash Professional Services, July 2021 - Current (40hrs per week)</h4>
+<p>Support SharePoint Migration and Knowledge Management Officer Role for the Business Management Division.<br>
+  Ensure that Congressional asks and tasks are met within the required timeline and that the responses are sufficient to what is asked.<br>
+  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adipisci animi temporibus unde officia fuga? <br>
+  Inventore natus nostrum rerum, soluta facilis libero accusantium praesentium minus. Alias atque voluptatem maiores aut eligendi?
+</p>
+
+<h4>Program Analyst</h4>
+<h4>ICESS January 2020 - June 2020 (40hrs per Week)</h4>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid sequi dolore eaque quas ipsum assumenda, eius itaque? Sapiente enim <br>
+  earum nisi reiciendis officiis explicabo voluptatem rem inventore qui. Quibusdam, fugiat!</p>
+
+<h4>Shift Leader</h4>
+<h4>Triple Canopy, Kabul Afghanistan 2011-2016, 2018-2019</h4>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid sequi dolore eaque quas ipsum assumenda, eius itaque? Sapiente enim <br>
+  earum nisi reiciendis officiis explicabo voluptatem rem inventore qui. Quibusdam, fugiat!</p>
+
+<h4>Assistant Store Manager</h4>
+<h4>Walmart, Inc, Denton, Texas (50hrs per Week)</h4>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias excepturi, voluptatum voluptatem cum dolor iste provident.<br>
+   Consequatur veritatis libero repellat commodi dicta magnam. Eveniet placeat nostrum nobis aliquam mollitia quis!</p>
+
+<h4>Private Investigator</h4>
+<h4>D. Oaks Inc, Greenwood, AR </h4>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam, esse adipisci officia similique facilis molestiae voluptatum. <br>
+   Saepe, quaerat vitae ea neque nemo culpa eligendi. Porro, nisi! Ullam eaque ex eveniet?</p>
+
+
+
+
+
+
+
+
+
+
+
+
+  <footer class="footer">
+  <p>Find me on social media.</p>
+  <i class="fa fa-twitter w3-hover-opacity"></i>
+  <i class="fa fa-linkedin w3-hover-opacity"></i>
+</footer>
+
+</body>
+</html>~
